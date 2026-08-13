@@ -43,6 +43,13 @@
 `PluginsController.copyPluginsToExternalDirectory()` 自动加载到
 `plugins.json`，用户无需手动安装任何规则。
 
+## APK下载
+- Release版 (推荐): app-release.apk (70 MB)
+- Debug版: app-debug.apk (130 MB)
+- GitHub Release: https://github.com/lhc8055/fy/releases/tag/v3.0
+
 ## 文件说明
 - source/ - 未编译的原始源码
 - apk/ - 编译好的APK安装包
+  - app-release.apk - Release签名版 (推荐安装)
+  - app-debug.apk - Debug调试版
